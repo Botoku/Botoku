@@ -1,7 +1,7 @@
-- 👋 Hi, I’m BotokuVincent
-- 👀 I’m interested in Web development and design
-- 🌱 I’m currently learning javascript and front end web design
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Vincent
+- 👀 I’m interested in Web development and design. I currently work with Typescript, Next, Node and Express with mongo and Postgres for DBs.
+- 🌱 I’m currently learning Java and Spring Boot. i also have plans on returning to 3D and Three.js that I once dabbled in.
+- 💞️ I’m looking to collaborate on any ideas that you need developing.
 - 📫 How to reach me . my email address is jbotoku@gmail.com
 
 <!---
